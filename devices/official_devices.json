@@ -1,5 +1,27 @@
 [
    {
+      "codename":"X00TD",
+      "name":"Asus Zenfone Max Pro M1",
+      "brand":"Asus",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"Lokesh Kasamneni",
+         "github_username":"Lokesh773",
+         "telegram_url":"http://t.me/l_o_k_e"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
+   },
+   {
       "codename":"miatoll",
       "name":"Redmi Note 9 Series",
       "brand":"Xiaomi",
